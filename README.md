@@ -17,6 +17,8 @@ Marlin and Smoothie Variants for fr3d i3 & fr3d i3 Black Ed.
 
 **fr3d i3 Black Ed. Smoothieware**
 
+**Configuration:**
+
 * Setup for MKS SBase - Smoothie compatible board.
 * Build Dimensions - 257x230x230.
 * BLTouch level sensor also used as Z endstop.
