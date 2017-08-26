@@ -1,11 +1,12 @@
 # fr3di3-Firmware
 Marlin and Smoothie Variants for fr3d i3 & fr3d i3 Black Ed.
 
-**fr3d i3 Marlin**
+## fr3d i3 Marlin
+-----------------
 
 [Marlin firmware version 1.1.4](http://marlinfw.org/meta/download/)
 
-**Configuration:**
+### Configuration:
 
 * Setup for Makeboard Pro - Ramps compatible board.
 * Build Dimensions - 220x220x240.
@@ -15,9 +16,10 @@ Marlin and Smoothie Variants for fr3d i3 & fr3d i3 Black Ed.
 * E Steps set for Titan Aero - E 418.5
 
 
-**fr3d i3 Black Ed. Smoothieware**
+## fr3d i3 Black Ed. Smoothieware
+---------------------------------
 
-**Configuration:**
+### Configuration:
 
 * Setup for MKS SBase - Smoothie compatible board.
 * Build Dimensions - 257x230x230.
