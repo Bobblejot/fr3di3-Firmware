@@ -2,7 +2,6 @@
 Marlin and Smoothie Variants for fr3d i3 & fr3d i3 Black Ed.
 
 ## fr3d i3 Marlin
------------------
 
 [Marlin firmware version 1.1.4](http://marlinfw.org/meta/download/)
 
@@ -17,7 +16,6 @@ Marlin and Smoothie Variants for fr3d i3 & fr3d i3 Black Ed.
 
 
 ## fr3d i3 Black Ed. Smoothieware
----------------------------------
 
 ### Configuration:
 
